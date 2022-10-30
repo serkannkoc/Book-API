@@ -76,7 +76,8 @@ Request body
 
 
 
-* Other endpoints can be reached from the below link.
+* Other endpoints can be reached from the below link.  
+
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://god.postman.co/run-collection/e03e21df83eb5352aec9?action=collection%2Fimport)
 
 
