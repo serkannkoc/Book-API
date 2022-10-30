@@ -8379,11 +8379,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TR\\source\\repos\\my-books\\my-books\\my-books.csproj",
+      "projectUniqueName": "C:\\Users\\TR\\Source\\Repos\\Book-API\\my-books\\my-books.csproj",
       "projectName": "my-books",
-      "projectPath": "C:\\Users\\TR\\source\\repos\\my-books\\my-books\\my-books.csproj",
+      "projectPath": "C:\\Users\\TR\\Source\\Repos\\Book-API\\my-books\\my-books.csproj",
       "packagesPath": "C:\\Users\\TR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TR\\source\\repos\\my-books\\my-books\\obj\\",
+      "outputPath": "C:\\Users\\TR\\Source\\Repos\\Book-API\\my-books\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TR\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8471,7 +8471,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
       }
     }
   }

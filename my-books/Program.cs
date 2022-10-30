@@ -21,8 +21,8 @@ namespace my_books
                     .ReadFrom.Configuration(configuration)
                     .CreateLogger();
                 //Log.Logger = new LoggerConfiguration()
-                  //  .WriteTo.File("Logs/log.txt",rollingInterval: RollingInterval.Day)
-                    //.CreateLogger();
+                //  .WriteTo.File("Logs/log.txt",rollingInterval: RollingInterval.Day)
+                //.CreateLogger();
                 CreateHostBuilder(args).Build().Run();
 
             }
